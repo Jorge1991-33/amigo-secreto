@@ -30,7 +30,6 @@ Diseño con CSS: Se crearon los estilos visuales (style.css) para dar formato a 
 
 Lógica en JavaScript: Se implementó la funcionalidad principal en el archivo app.js, desarrollando funciones para la gestión de datos y la ejecución del sorteo.
 
-
 Especificaciones Técnicas
 Este proyecto se desarrolló utilizando tecnologías web estándar:
 
@@ -40,5 +39,4 @@ CSS3: Para el diseño visual de la interfaz de usuario.
 
 JavaScript: Para la lógica funcional, incluyendo la gestión de eventos y el algoritmo del sorteo.
 
-Autor
 Jorge Elías Velasco Cárdenas - Desarrollo del proyecto - https://github.com/Jorge1991-33    
