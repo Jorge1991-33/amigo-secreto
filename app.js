@@ -1,5 +1,3 @@
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
-// Mi lista para ir guardando los nombres de los amigos.
 let amigos = [];
 
 function agregarAmigo() {
@@ -9,13 +7,13 @@ function agregarAmigo() {
 
     // Reviso que no esté vacío.
     if (nombre === '') {
-        alert('Oye, escribe un nombre válido.');
+        alert('Escribe un nombre válido.');
         return;
     }
 
     // Reviso que no esté repetido.
     if (amigos.includes(nombre)) {
-        alert('Ese nombre ya lo agregaste. Intenta con otro.');
+        alert('Intenta con otro nombre.');
         nombreInput.value = '';
         return;
     }
